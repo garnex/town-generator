@@ -1,0 +1,429 @@
+{
+  "PrimaryExports": {
+    "Agriculture": {
+      "Wheat": {
+        "description": "A staple grain used for making bread and flour",
+        "geography": "plains, temperate farmland",
+        "geographicKeys": [
+          "plains"
+        ]
+      },
+      "Barley": {
+        "description": "A hardy grain used in ale brewing and animal feed",
+        "geography": "hills, temperate farmland",
+        "geographicKeys": [
+          "hills",
+          "plains"
+        ]
+      },
+      "Oats": {
+        "description": "A cereal crop commonly used for porridge and livestock feed",
+        "geography": "coastal plains, uplands",
+        "geographicKeys": [
+          "hills",
+          "plains"
+        ]
+      },
+      "Onions": {
+        "description": "A pungent vegetable used in soups and stews",
+        "geography": "gardens, temperate zones",
+        "geographicKeys": [
+          "gardens"
+        ]
+      },
+      "Leeks": {
+        "description": "A mild-flavored vegetable used in broths and pies",
+        "geography": "river valleys, kitchen gardens",
+        "geographicKeys": [
+          "gardens",
+          "river"
+        ]
+      },
+      "Cabbage": {
+        "description": "A leafy vegetable that stores well for winter",
+        "geography": "northern fields, cool climates",
+        "geographicKeys": []
+      },
+      "Apples": {
+        "description": "A common orchard fruit eaten fresh or made into cider",
+        "geography": "orchards, temperate forests",
+        "geographicKeys": [
+          "forests",
+          "gardens"
+        ]
+      },
+      "Pears": {
+        "description": "A sweet fruit eaten fresh or dried for preservation",
+        "geography": "orchards, mild climates",
+        "geographicKeys": [
+          "gardens"
+        ]
+      },
+      "Plums": {
+        "description": "A soft fruit used in preserves and dried as prunes",
+        "geography": "orchards, warm valleys",
+        "geographicKeys": [
+          "gardens",
+          "valleys"
+        ]
+      },
+      "Beans": {
+        "description": "A protein-rich legume used in stews and dry storage",
+        "geography": "open fields, mixed farmlands",
+        "geographicKeys": ["plains"]
+      },
+      "Peas": {
+        "description": "A nutritious crop eaten fresh or dried for winter",
+        "geography": "gardens, temperate zones",
+        "geographicKeys": [
+          "gardens"
+        ]
+      },
+      "Lentils": {
+        "description": "A hardy legume rich in protein and easy to store",
+        "geography": "arid farmlands, rocky soils",
+        "geographicKeys": [
+          "arid"
+        ]
+      }
+    },
+    "Livestock": {
+      "Raw Wool": {
+        "description": "Unprocessed wool sheared from sheep for spinning",
+        "geography": "hills, pastures",
+        "geographicKeys": [
+          "hills"
+        ]
+      },
+      "Spun Wool": {
+        "description": "Wool that has been processed into yarn for weaving",
+        "geography": "villages, trade centers",
+        "geographicKeys": [
+          "rural",
+          "urban"
+        ]
+      },
+      "Tanned Hides": {
+        "description": "Animal skins treated to make leather",
+        "geography": "river towns, rural areas",
+        "geographicKeys": [
+          "river",
+          "rural",
+          "urban"
+        ]
+      },
+      "Leather Goods": {
+        "description": "Items such as belts, boots, and bags made from leather",
+        "geography": "crafting districts, markets",
+        "geographicKeys": [
+          "urban",
+        ]
+      },
+      "Sheep": {
+        "description": "Domesticated animals raised for wool and meat",
+        "geography": "moors, rolling hills",
+        "geographicKeys": [
+          "hills"
+        ]
+      },
+      "Pigs": {
+        "description": "Livestock raised for pork and lard",
+        "geography": "forested villages, farmsteads",
+        "geographicKeys": [
+          "forests",
+          "rural"
+        ]
+      },
+      "Cattle": {
+        "description": "Large livestock used for meat, milk, and labor",
+        "geography": "open plains, grasslands",
+        "geographicKeys": [
+          "plains"
+        ]
+      }
+    },
+    "Textiles": {
+      "Wool Cloth": {
+        "description": "Fabric woven from wool yarn for garments and blankets",
+        "geography": "weaving towns, upland villages",
+        "geographicKeys": [
+          "rural",
+          "urban"
+        ]
+      },
+      "Linen": {
+        "description": "Cloth made from flax fibers, used for undergarments and fine wear",
+        "geography": "river plains, flax-growing regions",
+        "geographicKeys": [
+          "plains",
+          "river"
+        ]
+      },
+      "Plant-dyed Cloth": {
+        "description": "Fabric colored using natural dyes from plants like woad or madder",
+        "geography": "dye-producing valleys, forest edges",
+        "geographicKeys": [
+          "forests",
+          "valleys"
+        ]
+      },
+      "Mineral-dyed Cloth": {
+        "description": "Cloth dyed with minerals such as ochre or iron oxide",
+        "geography": "mountain foothills, mineral regions",
+        "geographicKeys": [
+          "hills",
+          "mountains"
+        ]
+      }
+    },
+    "Natural Resources": {
+      "Logs": {
+        "description": "Cut timber used for fuel or construction",
+        "geography": "dense forests, frontier towns",
+        "geographicKeys": [
+          "forests",
+          "rural",
+          "urban"
+        ]
+      },
+      "Lumber": {
+        "description": "Sawn wood planks used in building and carpentry",
+        "geography": "lumber mills, forest villages",
+        "geographicKeys": [
+          "rural"
+        ]
+      },
+      "Charcoal Blocks": {
+        "description": "Processed wood used as fuel for blacksmithing and cooking",
+        "geography": "woodlands, kiln sites",
+        "geographicKeys": [
+          "forests"
+        ]
+      },
+      "Jars": {
+        "description": "Clay containers used to store food, liquids, or goods",
+        "geography": "potter's villages, riverbanks",
+        "geographicKeys": [
+          "river",
+          "rural"
+        ]
+      },
+      "Tiles": {
+        "description": "Clay-based flat items used for roofing or flooring",
+        "geography": "clay-rich regions, artisan towns",
+        "geographicKeys": [
+          "urban",
+          "workshops"
+        ]
+      },
+      "Pottery": {
+        "description": "Fired clay vessels for cooking, storage, or trade",
+        "geography": "kiln towns, clay pits",
+        "geographicKeys": [
+          "urban",
+          "workshops"
+        ]
+      },
+      "Salt Blocks": {
+        "description": "Large chunks of salt used for preserving meats and seasoning",
+        "geography": "salt flats, coastal regions",
+        "geographicKeys": [
+          "arid",
+          "coast"
+        ]
+      },
+      "Salt Crystals": {
+        "description": "Granulated salt commonly used in cooking",
+        "geography": "salt pans, sea marshes",
+        "geographicKeys": [
+          "coast"
+        ]
+      },
+      "Granite": {
+        "description": "Hard stone used for roads, monuments, and buildings",
+        "geography": "mountains, highlands",
+        "geographicKeys": [
+          "hills",
+          "mountains"
+        ]
+      },
+      "Limestone": {
+        "description": "A soft stone used in construction and making mortar",
+        "geography": "karst landscapes, hillsides",
+        "geographicKeys": [
+          "hills"
+        ]
+      }
+    },
+    "Crafts & Goods": {
+      "Hoes": {
+        "description": "Farming tools used for weeding and tilling soil",
+        "geography": "blacksmith towns, agricultural centers",
+        "geographicKeys": [
+          "urban",
+          "workshops"
+        ]
+      },
+      "Sickles": {
+        "description": "Curved blades used for harvesting grain and grass",
+        "geography": "forge villages, grain-producing regions",
+        "geographicKeys": [
+          "rural",
+          "workshops"
+        ]
+      },
+      "Hammers": {
+        "description": "Tools used in construction and smithing",
+        "geography": "toolmaking towns, mines",
+        "geographicKeys": [
+          "urban",
+          "workshops"
+        ]
+      },
+      "Swords": {
+        "description": "Bladed weapons crafted by skilled blacksmiths",
+        "geography": "martial cities, border forts",
+        "geographicKeys": [
+          "urban"
+        ]
+      },
+      "Shields": {
+        "description": "Defensive equipment used in battle",
+        "geography": "garrison towns, military workshops",
+        "geographicKeys": [
+          "urban"
+        ]
+      },
+      "Chainmail": {
+        "description": "Linked metal armor worn for protection in combat",
+        "geography": "fortresses, armorer districts",
+        "geographicKeys": [
+          "workshops"
+        ]
+      },
+      "Rings": {
+        "description": "Ornamental bands worn on fingers, often indicating wealth",
+        "geography": "jeweler quarters, trade hubs",
+        "geographicKeys": []
+      },
+      "Brooches": {
+        "description": "Decorative pins used to fasten cloaks and garments",
+        "geography": "noble towns, artisan markets",
+        "geographicKeys": [
+          "urban"
+        ]
+      },
+      "Beads": {
+        "description": "Small decorative items used in jewelry or traded in bulk",
+        "geography": "market towns, river traders",
+        "geographicKeys": [
+          "urban"
+        ]
+      },
+      "Barrels of Ale": {
+        "description": "Fermented drink made from barley, stored in barrels",
+        "geography": "brewery villages, grain belts",
+        "geographicKeys": [
+          "plains",
+          "rural"
+        ]
+      },
+      "Bottles of Mead": {
+        "description": "Alcoholic beverage made from fermented honey",
+        "geography": "woodland regions, apiaries",
+        "geographicKeys": []
+      },
+      "Cups": {
+        "description": "Small vessels for drinking",
+        "geography": "ceramic districts, trade cities",
+        "geographicKeys": [
+          "urban"
+        ]
+      },
+      "Bottles": {
+        "description": "Glass or ceramic containers for storing liquids",
+        "geography": "glassblower towns, coastal sands",
+        "geographicKeys": [
+          "coast",
+          "urban"
+        ]
+      },
+      "Bowls": {
+        "description": "Round dishes used for eating or mixing food",
+        "geography": "potter's towns, household markets",
+        "geographicKeys": [
+          "urban"
+        ]
+      }
+    },
+    "Luxury Goods": {
+      "Saffron": {
+        "description": "A rare and valuable spice harvested from crocus flowers",
+        "geography": "warm valleys, southern regions",
+        "geographicKeys": [
+          "valleys"
+        ]
+      },
+      "Pepper": {
+        "description": "Imported spice used to season and preserve food",
+        "geography": "port cities, trade hubs",
+        "geographicKeys": [
+          "coast",
+          "urban"
+        ]
+      },
+      "Cinnamon": {
+        "description": "Sweet spice often used in baked goods and mulled drinks",
+        "geography": "import markets, southern ports",
+        "geographicKeys": [
+          "urban"
+        ]
+      },
+      "Honey Jars": {
+        "description": "Containers of sweet bee-made product used in food and mead",
+        "geography": "meadows, apiary farms",
+        "geographicKeys": [
+          "meadows"
+        ]
+      },
+      "Comb Honey": {
+        "description": "Honey still stored in the wax comb, considered a delicacy",
+        "geography": "forested hills, beekeeper villages",
+        "geographicKeys": [
+          "hills",
+          "rural"
+        ]
+      },
+      "Embroidered Tunics": {
+        "description": "Fine clothing decorated with stitched patterns",
+        "geography": "wealthy towns, noble courts",
+        "geographicKeys": [
+          "urban"
+        ]
+      },
+      "Silk Trim": {
+        "description": "Expensive fabric used to edge garments, often imported",
+        "geography": "merchant cities, noble residences",
+        "geographicKeys": [
+          "urban"
+        ]
+      },
+      "Illuminated Texts": {
+        "description": "Handwritten books decorated with gold and illustrations",
+        "geography": "monasteries, scholarly cities",
+        "geographicKeys": [
+          "religious",
+          "urban"
+        ]
+      },
+      "Religious Scrolls": {
+        "description": "Sacred or scholarly writings used by clergy or scholars",
+        "geography": "temple cities, cathedral towns",
+        "geographicKeys": [
+          "religious",
+          "urban"
+        ]
+      }
+    }
+  }
+}

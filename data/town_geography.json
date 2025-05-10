@@ -1,0 +1,73 @@
+{
+  "Mountainous & Rocky Terrain": [
+    "Cliffside Ledges - Homes carved into rock faces or built on narrow paths",
+    "Mountain Pass Crossroads - Vital stop between highland realms",
+    "Crater Bowl - Built within the shell of an ancient volcano or meteor site",
+    "Stone Teeth Ridge - Jagged peaks surround the town like fangs",
+    "Dwarven Hollow - Built inside the mountains, blending stone and structure",
+    "Avalanche Valley - Snow-prone but rich in minerals and spring water",
+    "Frostpeak Hollow - Dug into the lee of a glacier-fed slope",
+    "Obsidian Steppe - Dark volcanic stone makes up the surrounding cliffs",
+    "Lantern Pass - Marked by glowing crystals embedded in the cliffs",
+    "Dragon's Spine Ravine - Sharp, narrow valley said to resemble a serpent",
+    "Slatebridge Heights - Layered rock ledges above a roaring waterfall",
+    "Cavehaven - Network of natural caverns joined into a hidden town"
+  ],
+  "Water-Based Geography": [
+    "Coastal Cliffside - Town perched on sea cliffs, waves crashing far below",
+    "River Delta - Built on shifting islands and channels, prone to flooding",
+    "Lakefront Shore - Calm waters, fishing docks, and colorful boathouses",
+    "Island Fortress - Entirely surrounded by water, accessible only by boat or causeway",
+    "Tidal Flats - Exposed mudflats during low tide, treacherous terrain",
+    "Misty Fjord - Surrounded by towering cliffs and echoing horn calls",
+    "Hidden Cove - Secluded harbor used by smugglers and traders",
+    "Fog-Harbor Island - Permanently cloaked in mist and reachable only by ferry",
+    "Sunken Estuary - Parts of the town flood during high tide, buildings on stilts",
+    "Crystal Spring Village - Fed by a magical freshwater spring beneath the earth",
+    "Seastone Docks - Entire harbor carved into the living reef",
+    "Ravine River Town - Split down the middle by a deep river gorge",
+    "Frozen Bay - Ships dock at icebreakers year-round in this northern trade post"
+  ],
+  "Forests & Woodlands": [
+    "Deep Woodland Clearing - Hidden town surrounded by towering trees",
+    "Border Forest Edge - Built where forest meets field, wary of beasts",
+    "Ancient Grove Settlement - Town built around or inside sacred trees",
+    "Burned Woods - Once-lush forest now blackened, a reminder of disaster",
+    "Fog-Shrouded Pines - Roads vanish into misty, whispering woods",
+    "Timber Frontier - Logging outpost near dense, untamed wilderness",
+    "Hollowroot Hamlet - Settled in and under giant hollowed-out trees",
+    "Barkwall - Town built into a naturally fortified ring of trees",
+    "Shimmergrove - Luminous fungi light the canopy by night",
+    "Whistling Thicket - Winds create eerie music as they pass through",
+    "Witchbriar Woods - Twisting paths only locals can navigate safely",
+    "Elderpine Lookout - Raised platforms and walkways high above the forest floor"
+  ],
+  "Hills, Plains & Highlands": [
+    "Windswept Hilltop - Views for miles, but exposed to storms and winds",
+    "Rolling Farmlands - Patchwork of crops, pastures, and family cottages",
+    "Highland Ridge - Built on a rocky spine, with steep narrow paths",
+    "Cairn-Spotted Heath - Fields dotted with ancient burial mounds",
+    "Fertile Basin - Naturally irrigated valley floor, ideal for dense agriculture",
+    "Terraced Hillside - Carefully stepped farms and homes built into slopes",
+    "Crescent Hill - Town arcs along a curved ridge above its farmland",
+    "Broken Plains - Settled among strange rock spires and dry gullies",
+    "Sunstep Rise - Oriented perfectly for sunrise rituals each morning",
+    "Goatback Highlands - Rocky slopes filled with echoing bells of livestock",
+    "Stormwatch Bluff - Windswept and battered, perfect for beacons and towers",
+    "Thistlefield Vale - Known for hardy crops and thorny wildlife"
+  ],
+  "Wastes, Deserts & Arid Zones": [
+    "Dust Plateau - High, dry ground with panoramic views and little water",
+    "Salt-Crusted Flats - Cracking earth and windblown minerals underfoot",
+    "Oasis Town - Small lush spot in the middle of barren wastes",
+    "Cliffside Shade Town - Built into canyon walls to avoid the sun",
+    "Nomad Crossroads - Frequented by caravans, full of tents and trade",
+    "Glass Dunes - Shimmering desert said to be formed from magical firestorms",
+    "Ashglass Basin - Blackened by ancient fire, ground glass sparkles underfoot",
+    "Red Sand Rift - Two halves of the town cling to a split canyon wall",
+    "Windspire Fields - Stone spires whistle as desert winds blow through",
+    "Scorchline Village - Built near a vein of exposed lava or geofire",
+    "Mirage Bluffs - Appears to vanish at certain times of day",
+    "Cactus Gate - Massive ancient cacti surround the entrance like watchtowers"
+  ]
+}

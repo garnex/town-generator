@@ -1,0 +1,162 @@
+{
+  "Political & Noble Power": [
+    {
+      "title": "Scheming Noble Family",
+      "motivation": "Restore ancestral prestige and eliminate rivals",
+      "agenda": "Control town council through arranged marriages and bribery"
+    },
+    {
+      "title": "Merchant Mayor",
+      "motivation": "Ensure the prosperity of their own ventures",
+      "agenda": "Privatize city services and strike exclusive trade deals"
+    },
+    {
+      "title": "War Hero Governor",
+      "motivation": "Maintain peace through strength",
+      "agenda": "Establish martial law and expand the town garrison"
+    },
+    {
+      "title": "Steward of the Absent Lord",
+      "motivation": "Keep control until the rightful heir returns or doesn't",
+      "agenda": "Delay succession and hoard taxes for personal power"
+    },
+    {
+      "title": "Noble Exile",
+      "motivation": "Reclaim lost title and land",
+      "agenda": "Manipulate local politics to stage a comeback"
+    },
+    {
+      "title": "Puppet Leader",
+      "motivation": "Avoid scandal or punishment from true rulers",
+      "agenda": "Maintain illusion of power while shielding the shadow cabal"
+    }
+  ],
+  "Guilds & Economic Powers": [
+    {
+      "title": "Blacksmiths' Guild Leader",
+      "motivation": "Control arms trade and ensure guild dominance",
+      "agenda": "Suppress independent smiths and fund private guards"
+    },
+    {
+      "title": "Spice Merchant",
+      "motivation": "Gain monopoly on luxury trade",
+      "agenda": "Disrupt rival routes and sway officials with gifts"
+    },
+    {
+      "title": "Masons' Guild Master",
+      "motivation": "Be immortalized in the town's architecture",
+      "agenda": "Secure contracts to rebuild and expand infrastructure"
+    },
+    {
+      "title": "Moneylender",
+      "motivation": "Maintain economic control through debt",
+      "agenda": "Foreclose on land and fund political candidates"
+    },
+    {
+      "title": "Textile Guild Head",
+      "motivation": "Dominate fashion and local identity",
+      "agenda": "Sponsor festivals, control clothing imports"
+    },
+    {
+      "title": "Fishers' Cooperative Leader",
+      "motivation": "Protect livelihood and traditions",
+      "agenda": "Block expansion of shipping interests"
+    }
+  ],
+  "Religious & Spiritual Influence": [
+    {
+      "title": "High Priest or Abbess",
+      "motivation": "Guide the town's moral compass",
+      "agenda": "Increase temple influence and oversee public trials"
+    },
+    {
+      "title": "Prophetic Child",
+      "motivation": "Follow divine visions, knowingly or unknowingly",
+      "agenda": "Guide followers toward a prophesied event"
+    },
+    {
+      "title": "Inquisitor",
+      "motivation": "Purge heresy and enforce piety",
+      "agenda": "Cleanse the town of arcane and moral corruption"
+    },
+    {
+      "title": "Wandering Monk",
+      "motivation": "Spread their doctrine of peace or penance",
+      "agenda": "Gather converts and challenge the town's leadership"
+    },
+    {
+      "title": "Oracle",
+      "motivation": "Serve a higher, unseen force",
+      "agenda": "Steer leadership decisions subtly through prophecy"
+    },
+    {
+      "title": "Cult Leader",
+      "motivation": "Achieve power through worship",
+      "agenda": "Induct influential citizens into secret rites"
+    }
+  ],
+  "Magical & Arcane Figures": [
+    {
+      "title": "Town Wizard",
+      "motivation": "Maintain magical order and research",
+      "agenda": "Regulate spell use and influence lawmaking"
+    },
+    {
+      "title": "Reclusive Alchemist",
+      "motivation": "Discover immortality or divine truth",
+      "agenda": "Obtain rare ingredients through manipulation"
+    },
+    {
+      "title": "Witch Coven",
+      "motivation": "Preserve old ways and power",
+      "agenda": "Influence seasonal rites and charm officials"
+    },
+    {
+      "title": "Bardic Enchanter",
+      "motivation": "Capture fame and political sway",
+      "agenda": "Enchant crowds and sway elections"
+    },
+    {
+      "title": "Sentient Magical Relic Wielder",
+      "motivation": "Survive and evolve with the relic",
+      "agenda": "Subtly gain a loyal following and enforce will"
+    },
+    {
+      "title": "Planar Scholar",
+      "motivation": "Understand otherworldly realms",
+      "agenda": "Use political access to unlock ancient portals"
+    }
+  ],
+  "Criminal & Underground Powers": [
+    {
+      "title": "Symbolic Crime Boss",
+      "motivation": "Maintain control through fear and mystery",
+      "agenda": "Run rackets under the guise of civic order"
+    },
+    {
+      "title": "Smugglers' Guildmaster",
+      "motivation": "Profit from forbidden goods",
+      "agenda": "Undermine tariffs and border controls"
+    },
+    {
+      "title": "Masked Fence",
+      "motivation": "Stay unseen and get rich",
+      "agenda": "Corner the market on stolen magical items"
+    },
+    {
+      "title": "Bard-Spy",
+      "motivation": "Uncover secrets and destabilize power",
+      "agenda": "Sell information to the highest bidder"
+    },
+    {
+      "title": "Blood Oath Gang Leader",
+      "motivation": "Protect kin and territory",
+      "agenda": "Expand turf and recruit disenfranchised youth"
+    },
+    {
+      "title": "Underworld Kingpin",
+      "motivation": "Revenge against the upper class",
+      "agenda": "Build a rival government in the shadows"
+    }
+  ]
+}

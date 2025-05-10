@@ -1,0 +1,62 @@
+{
+  "Traditional Law Enforcement": [
+    "City watch patrols wear the lord's sigil and answer to a magistrate",
+    "Reeves or bailiffs keep village order on behalf of the manor lord",
+    "Local militia doubles as peacekeepers when not defending the town",
+    "Watchmen blow horns from towers to signal crime or fire",
+    "Gate captains monitor entry and arrest those on public lists",
+    "Rural sheriffs travel circuit courts and pass judgments with little oversight",
+    "Guardsmen are trained in arms and public obedience under a knight",
+    "Courthouse scribes keep written records of all local accusations and verdicts"
+  ],
+  "Religious & Theocratic Policing": [
+    "Paladins enforce both divine and royal law as spiritual soldiers",
+    "Inquisitors root out heresy with authority to arrest and punish",
+    "Clerics interrogate suspects through divine oaths and relics",
+    "Temple guards enforce law on sacred ground and holy days",
+    "Blasphemers are tried in open squares by singing judges",
+    "Oracles are consulted before criminal sentences are passed",
+    "Confessioners divine guilt by aura-reading or dreamwalking",
+    "Religious fasts are mandated as punishment for moral crimes"
+  ],
+  "Secretive or Covert Policing": [
+    "A hidden cabal of 'Listeners' gathers whispered confessions",
+    "Disguised watchmen blend into taverns and streets",
+    "Whisper guilds punish crimes through coded threats and silent retribution",
+    "Masked arbiters hold night courts and enforce their own justice",
+    "A noble house operates a personal spy network and execution squad",
+    "Royal informants submit anonymous reports to high council",
+    "Magic tattoos glow when criminals lie or break contracts",
+    "Public criers speak in riddles containing encoded warnings"
+  ],
+  "Magical & Arcane Lawkeeping": [
+    "Mage-enforcers bind criminals with runes and spectral chains",
+    "Truth spells are used routinely in court proceedings",
+    "Scrying pools reveal recorded visions of crimes",
+    "Animated armor and golems patrol city walls silently",
+    "Wizards track criminals using enchanted familiars",
+    "Binding circles hold prisoners in magical stasis",
+    "Illusion magic is used to recreate crime scenes in court",
+    "Memory orbs store testimony directly from witnesses"
+  ],
+  "Brutal or Barbaric Justice": [
+    "Offenders judged by mob consensus in public squares",
+    "Stocks, pillories, and flogging platforms in every district",
+    "Duels replace trials for the noble and well-armed",
+    "Convicts are fed to beasts or made to fight in arenas",
+    "Executioners act as judge, jury, and punishment",
+    "Iron brands mark thieves and liars permanently",
+    "Punishments are proportional to coin and favor",
+    "Banishment enforced by ritual humiliation ceremonies"
+  ],
+  "Lax or Corrupt Systems": [
+    "Laws are more like suggestions enforced when convenient",
+    "Bribery replaces official fines in most dealings",
+    "Local guards ignore noble crimes but arrest peasants swiftly",
+    "Offenses are judged based on personal connections, not law",
+    "City watch often drunk, absent, or in league with criminals",
+    "Trials take months, often abandoned or forgotten entirely",
+    "Corrupt judges accept payment to forget' evidence",
+    "Smugglers and thieves operate with the blessing of key officials"
+  ]
+}
