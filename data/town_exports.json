@@ -116,7 +116,7 @@
         "description": "Items such as belts, boots, and bags made from leather",
         "geography": "crafting districts, markets",
         "geographicKeys": [
-          "urban",
+          "urban"
         ]
       },
       "Sheep": {
